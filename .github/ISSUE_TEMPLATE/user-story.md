@@ -2,7 +2,7 @@
 name: user story
 about: Suggest an idea for this project
 title: As <role>, I want <something> so that <something>
-labels: backlog, bug, epic, good first issue, in progress, new issue, user story
+labels: new issue, user story
 assignees: ''
 
 ---
